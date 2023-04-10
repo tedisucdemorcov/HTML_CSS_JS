@@ -1,0 +1,18 @@
+.First h2 {
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    text-align: center;
+    justify-content: flex-start;
+    color: rgba(219, 17, 17, 0.404);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Second h2{
+    display: flex;
+    text-align: center;
+    justify-content: flex-end;
+    color: rgba(0, 0, 255, 0.39);
+    font-family: 'Courier New', Courier, monospace;
+}
+
